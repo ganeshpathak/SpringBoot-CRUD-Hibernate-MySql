@@ -78,20 +78,4 @@ The app defines following CRUD APIs.
 
 You can test them using postman or any other rest client.
 
-## Learn more
-
-You can find the video tutorial for this application on my youtube channel -
-
-<https://www.youtube.com/playlist?list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl/>
-
-You can find the tutorial for this application on my blog -
-
-<http://bushansirgur.in/>
-
-You can subscribe to our Youtube channel -
-
-<https://www.youtube.com/b2tech/>
-
-You can join our free udemy courses also -
-
-<https://udemy.com/user/bushansirgur/>
+postman collection : https://www.getpostman.com/collections/79b34e5606d66d88881e
